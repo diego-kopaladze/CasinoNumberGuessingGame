@@ -1,0 +1,17 @@
+# Ignore build files
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# Ignore IDE settings
+.idea/
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries
+*.exe
+*.out
+*.o
