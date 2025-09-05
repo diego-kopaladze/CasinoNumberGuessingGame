@@ -25,7 +25,7 @@ This project is part of my beginner-level C++ journey.
 ### **Linux / Ubuntu**
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/casino-game.git
+git clone https://github.com/diego-kopaladze/CasinoNumberGuessingGame
 cd casino-game
 
 # Compile
@@ -37,7 +37,7 @@ g++ main.cpp -o casino_game
 ### **MacOs**
 ```bash
 # Clone repo
-git clone https://github.com/YOUR_USERNAME/casino-game.git
+git clone https://github.com/diego-kopaladze/CasinoNumberGuessingGame
 cd casino-game
 
 # Compile with clang
@@ -50,7 +50,7 @@ clang++ main.cpp -o casino_game
 ### **Windows (MinGW / MSVC)**
 ```bash
 :: Clone repo
-git clone https://github.com/YOUR_USERNAME/casino-game.git
+git clone https://github.com/diego-kopaladze/CasinoNumberGuessingGame
 cd casino-game
 
 :: Compile (with MinGW)
